@@ -1,0 +1,11 @@
+name: ConquisterWallJump
+version: ${project.version}
+main: dev.conquister.walljump.WallJump
+api-version: 1.21
+softdepend: [WorldGuard, TreysDoubleJump]
+authors: [ Arthed, MonsterWhat, Conquister]
+description: Adds an easy to understand, yet still challenging wall jump mechanic
+folia-supported: true
+commands:
+  walljump:
+    aliases: [wj, wjump]
