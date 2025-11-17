@@ -106,7 +106,7 @@ public class WPlayer {
                         }
                     }
                 }
-            }, 0, 1);
+            }, 1, 1);
 
             // make the player fall | slide when the time runs out
             if (fallTask != null)
